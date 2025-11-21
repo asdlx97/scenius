@@ -1,21 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Scenius
 ---
-<!-- Markdown Preview - https://dillinger.io/ -->
+<!-- Markdown Preview - -->
 
-# Nice Tat Astro Template
+# Designing Narratives, Audiences and Custom Code for Creative Spaces
 
-[using this template](/how-to-use)
-
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
-
-[github](https://github.com/ThatGuySam/nice-tat)
-
-[instagram](https://www.instagram.com/caseyneistat/)
-
-[onlyfans](/onlyfans)
-
-[twitter](https://twitter.com/Casey)
+Taking on select projects.
 
 [contact](/contact)
