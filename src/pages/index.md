@@ -4,12 +4,10 @@ title: Scenius
 ---
 <!-- Markdown Preview - -->
 
-# Designing 
-## Narratives, 
-## Audiences,
-## and Custom Code 
+# Designing Narratives, Audiences,
+# and Custom Code 
 ## for Creative Spaces
-
+# 
 Taking on select projects.
-
+#
 [contact](/contact)
